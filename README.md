@@ -35,7 +35,7 @@ TARGET = "192.168.1.0/24"
 
 2. Run the script:
 ```
-python scanner.py
+python pingsweeper.py
 ```
 
 3. After the scan, results will appear in:
